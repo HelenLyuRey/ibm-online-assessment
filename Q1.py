@@ -14,6 +14,7 @@ size_req = lines[3].split(' ')
 
 
 def change_size_to_num(lst):
+    '''This function changes the sizes to numbers for better comparison'''
     S = -1
     M = 0
     L = 1
